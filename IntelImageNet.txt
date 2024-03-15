@@ -1,0 +1,150 @@
+========= EPOCH 1 STARTED =========
+100%|██████████| 108/108 [00:04<00:00, 25.80it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 51.43it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.29it/s]
+END OF 1 EPOCH
+| Time taken:   8.080 |
+| Train Loss:   1.558 | Train acc:  0.91259 | Train f1:  0.60973 |
+| Test Loss:   1.593  | Test acc:  0.87729  | Test f1:  0.75359  |
+========= EPOCH 2 STARTED =========
+100%|██████████| 108/108 [00:04<00:00, 26.31it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 53.06it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 41.40it/s]
+END OF 2 EPOCH
+| Time taken:   8.523 |
+| Train Loss:   1.537 | Train acc:  0.93252 | Train f1:  0.70034 |
+| Test Loss:   1.582  | Test acc:  0.88456  | Test f1:  0.75956  |
+========= EPOCH 3 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 27.36it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 45.67it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.14it/s]
+END OF 3 EPOCH
+| Time taken:   8.087 |
+| Train Loss:   1.523 | Train acc:  0.94546 | Train f1:  0.71014 |
+| Test Loss:   1.581  | Test acc:  0.88456  | Test f1:  0.88617  |
+========= EPOCH 4 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.10it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 51.35it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 41.19it/s]
+END OF 4 EPOCH
+| Time taken:   8.079 |
+| Train Loss:   1.513 | Train acc:  0.95244 | Train f1:  0.63579 |
+| Test Loss:   1.575  | Test acc:  0.88950  | Test f1:  0.89091  |
+========= EPOCH 5 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 27.37it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 52.41it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.18it/s]
+END OF 5 EPOCH
+| Time taken:   7.626 |
+| Train Loss:   1.517 | Train acc:  0.94808 | Train f1:  0.63310 |
+| Test Loss:   1.584  | Test acc:  0.87962  | Test f1:  0.88155  |
+========= EPOCH 6 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.05it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 43.58it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 52.70it/s]
+END OF 6 EPOCH
+| Time taken:   7.927 |
+| Train Loss:   1.505 | Train acc:  0.96051 | Train f1:  0.64105 |
+| Test Loss:   1.576  | Test acc:  0.88805  | Test f1:  0.88992  |
+========= EPOCH 7 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.74it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 52.80it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 47.29it/s]
+END OF 7 EPOCH
+| Time taken:   7.737 |
+| Train Loss:   1.498 | Train acc:  0.96568 | Train f1:  0.57992 |
+| Test Loss:   1.574  | Test acc:  0.89183  | Test f1:  0.89336  |
+========= EPOCH 8 STARTED =========
+100%|██████████| 108/108 [00:04<00:00, 24.93it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 53.11it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 52.36it/s]
+END OF 8 EPOCH
+| Time taken:   8.118 |
+| Train Loss:   1.495 | Train acc:  0.96880 | Train f1:  0.64637 |
+| Test Loss:   1.576  | Test acc:  0.88892  | Test f1:  0.89079  |
+========= EPOCH 9 STARTED =========
+100%|██████████| 108/108 [00:07<00:00, 15.28it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 40.77it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.14it/s]
+END OF 9 EPOCH
+| Time taken:  11.501 |
+| Train Loss:   1.503 | Train acc:  0.96081 | Train f1:  0.64138 |
+| Test Loss:   1.585  | Test acc:  0.87642  | Test f1:  0.87880  |
+========= EPOCH 10 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.72it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 43.74it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 50.97it/s]
+END OF 10 EPOCH
+| Time taken:   8.050 |
+| Train Loss:   1.493 | Train acc:  0.97033 | Train f1:  0.58267 |
+| Test Loss:   1.575  | Test acc:  0.88718  | Test f1:  0.88882  |
+========= EPOCH 11 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.23it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 52.28it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 50.67it/s]
+END OF 11 EPOCH
+| Time taken:   7.523 |
+| Train Loss:   1.494 | Train acc:  0.97033 | Train f1:  0.58277 |
+| Test Loss:   1.580  | Test acc:  0.88514  | Test f1:  0.88714  |
+========= EPOCH 12 STARTED =========
+100%|██████████| 108/108 [00:04<00:00, 26.30it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 48.76it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 50.66it/s]
+END OF 12 EPOCH
+| Time taken:   7.945 |
+| Train Loss:   1.489 | Train acc:  0.97331 | Train f1:  0.64940 |
+| Test Loss:   1.576  | Test acc:  0.88863  | Test f1:  0.89033  |
+========= EPOCH 13 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 28.61it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 41.68it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 50.53it/s]
+END OF 13 EPOCH
+| Time taken:   7.984 |
+| Train Loss:   1.490 | Train acc:  0.97244 | Train f1:  0.58406 |
+| Test Loss:   1.578  | Test acc:  0.88514  | Test f1:  0.88676  |
+========= EPOCH 14 STARTED =========
+100%|██████████| 108/108 [00:03<00:00, 29.05it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 48.42it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.58it/s]
+END OF 14 EPOCH
+| Time taken:   7.549 |
+| Train Loss:   1.488 | Train acc:  0.97433 | Train f1:  0.58507 |
+| Test Loss:   1.578  | Test acc:  0.88311  | Test f1:  0.88523  |
+========= EPOCH 15 STARTED =========
+100%|██████████| 108/108 [00:04<00:00, 26.13it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 108/108 [00:02<00:00, 47.97it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 27/27 [00:00<00:00, 51.56it/s]
+END OF 15 EPOCH
+| Time taken:   8.003 |
+| Train Loss:   1.487 | Train acc:  0.97462 | Train f1:  0.58526 |
+| Test Loss:   1.575  | Test acc:  0.88659  | Test f1:  0.88862  |

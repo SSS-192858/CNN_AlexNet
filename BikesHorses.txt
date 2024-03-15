@@ -1,0 +1,50 @@
+========= EPOCH 1 STARTED =========
+100%|██████████| 2/2 [00:00<00:00,  7.08it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 34.58it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 1/1 [00:00<00:00, 45.28it/s]
+END OF 1 EPOCH
+| Time taken:   0.410 |
+| Train Loss:   1.539 | Train acc:  0.99301 | Train f1:  0.66400 |
+| Test Loss:   1.610  | Test acc:  0.94444  | Test f1:  0.48567  |
+========= EPOCH 2 STARTED =========
+100%|██████████| 2/2 [00:00<00:00,  8.35it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 23.19it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 1/1 [00:00<00:00, 72.55it/s]
+END OF 2 EPOCH
+| Time taken:   0.394 |
+| Train Loss:   1.476 | Train acc:  0.99301 | Train f1:  0.66400 |
+| Test Loss:   1.525  | Test acc:  0.97222  | Test f1:  0.65657  |
+========= EPOCH 3 STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 11.43it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 40.94it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 1/1 [00:00<00:00, 122.40it/s]
+END OF 3 EPOCH
+| Time taken:   0.283 |
+| Train Loss:   1.470 | Train acc:  0.99301 | Train f1:  0.66400 |
+| Test Loss:   1.508  | Test acc:  0.97222  | Test f1:  0.65657  |
+========= EPOCH 4 STARTED =========
+100%|██████████| 2/2 [00:00<00:00,  6.94it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 18.26it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 1/1 [00:00<00:00, 53.57it/s]
+END OF 4 EPOCH
+| Time taken:   0.493 |
+| Train Loss:   1.466 | Train acc:  1.00000 | Train f1:  1.00000 |
+| Test Loss:   1.498  | Test acc:  0.97222  | Test f1:  0.65657  |
+========= EPOCH 5 STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 14.45it/s]
+========= TRAIN EVALUATION STARTED =========
+100%|██████████| 2/2 [00:00<00:00, 48.86it/s]
+========= TEST EVALUATION STARTED =========
+100%|██████████| 1/1 [00:00<00:00, 89.16it/s]END OF 5 EPOCH
+| Time taken:   0.258 |
+| Train Loss:   1.467 | Train acc:  1.00000 | Train f1:  1.00000 |
+| Test Loss:   1.496  | Test acc:  1.00000  | Test f1:  1.00000  |
+
