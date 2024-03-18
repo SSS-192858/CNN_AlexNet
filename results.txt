@@ -1,0 +1,140 @@
+RELU with Momentum - 10 epochs
+Accuracy of the network on the 10000 test images: 79 %
+[1, 12000] loss: 1.112
+[2, 12000] loss: 0.848
+[3, 12000] loss: 0.682
+[4, 12000] loss: 0.550
+[5, 12000] loss: 0.442
+[6, 12000] loss: 0.338
+[7, 12000] loss: 0.275
+[8, 12000] loss: 0.215
+[9, 12000] loss: 0.173
+[10, 12000] loss: 0.162
+
+RELU with Momentum - 20 epochs
+Accuracy of the network on the 10000 test images: 79 %
+[1, 12000] loss: 1.122
+[2, 12000] loss: 0.838
+[3, 12000] loss: 0.668
+[4, 12000] loss: 0.554
+[5, 12000] loss: 0.444
+[6, 12000] loss: 0.362
+[7, 12000] loss: 0.260
+[8, 12000] loss: 0.222
+[9, 12000] loss: 0.175
+[10, 12000] loss: 0.142
+[11, 12000] loss: 0.146
+[12, 12000] loss: 0.111
+[13, 12000] loss: 0.129
+[14, 12000] loss: 0.110
+[15, 12000] loss: 0.078
+[16, 12000] loss: 0.084
+[17, 12000] loss: 0.091
+[18, 12000] loss: 0.080
+[19, 12000] loss: 0.070
+[20, 12000] loss: 0.065
+
+Sigmoid with Momentum
+Accuracy of the network on the 10000 test images: 10 %
+[1, 12000] loss: 2.304
+[2, 12000] loss: 2.303
+[3, 12000] loss: 2.303
+[4, 12000] loss: 2.304
+[5, 12000] loss: 2.303
+[6, 12000] loss: 2.303
+[7, 12000] loss: 2.303
+[8, 12000] loss: 2.303
+[9, 12000] loss: 2.303
+[10, 12000] loss: 2.302
+
+Tanh with Momentum
+Accuracy of the network on the 10000 test images: 56 %
+[1, 12000] loss: 1.289
+[2, 12000] loss: 1.227
+[3, 12000] loss: 1.201
+[4, 12000] loss: 1.238
+[5, 12000] loss: 1.331
+[6, 12000] loss: 1.485
+[7, 12000] loss: 1.703
+[8, 12000] loss: 2.195
+[9, 12000] loss: 3.032
+[10, 12000] loss: 4.354
+
+RELU without Momentum
+Accuracy of the network on the 10000 test images: 74 %
+[1, 12000] loss: 1.586
+[2, 12000] loss: 1.370
+[3, 12000] loss: 1.198
+[4, 12000] loss: 1.065
+[5, 12000] loss: 0.967
+[6, 12000] loss: 0.850
+[7, 12000] loss: 0.765
+[8, 12000] loss: 0.684
+[9, 12000] loss: 0.632
+[10, 12000] loss: 0.577
+
+Sigmoid without Momentum
+Accuracy of the network on the 10000 test images: 10 %
+[1, 12000] loss: 2.355
+[2, 12000] loss: 2.323
+[3, 12000] loss: 2.312
+[4, 12000] loss: 2.308
+[5, 12000] loss: 2.306
+[6, 12000] loss: 2.305
+[7, 12000] loss: 2.305
+[8, 12000] loss: 2.304
+[9, 12000] loss: 2.304
+[10, 12000] loss: 2.304
+
+Tanh without Momentum
+Accuracy of the network on the 10000 test images: 72 %
+[1, 12000] loss: 1.481
+[2, 12000] loss: 1.283
+[3, 12000] loss: 1.115
+[4, 12000] loss: 1.019
+[5, 12000] loss: 0.936
+[6, 12000] loss: 0.879
+[7, 12000] loss: 0.848
+[8, 12000] loss: 0.815
+[9, 12000] loss: 0.803
+[10, 12000] loss: 0.780
+
+RELU with Adam optimizer (instead of Stochastic Grad Descent)
+Accuracy of the network on the 10000 test images: 57 %
+[1, 12000] loss: 1.729
+[2, 12000] loss: 1.633
+[3, 12000] loss: 1.562
+[4, 12000] loss: 1.532
+[5, 12000] loss: 1.512
+[6, 12000] loss: 1.467
+[7, 12000] loss: 1.495
+[8, 12000] loss: 1.460
+[9, 12000] loss: 1.450
+[10, 12000] loss: 1.437
+
+
+RELU with RMS Prop optimizer (instead of Stochastic Grad Descent)
+Accuracy of the network on the 10000 test images: 36 %
+[1, 12000] loss: 1.763
+[2, 12000] loss: 1.879
+[3, 12000] loss: 1.793
+[4, 12000] loss: 1.778
+[5, 12000] loss: 1.793
+[6, 12000] loss: 1.834
+[7, 12000] loss: 1.779
+[8, 12000] loss: 1.796
+[9, 12000] loss: 1.824
+[10, 12000] loss: 2.626
+
+RELU 4 conv layers - 10 epochs
+Accuracy of the network on the 10000 test images: 80 %
+[1, 12000] loss: 1.206
+[2, 12000] loss: 0.871
+[3, 12000] loss: 0.711
+[4, 12000] loss: 0.569
+[5, 12000] loss: 0.464
+[6, 12000] loss: 0.370
+[7, 12000] loss: 0.293
+[8, 12000] loss: 0.230
+[9, 12000] loss: 0.186
+[10, 12000] loss: 0.150
